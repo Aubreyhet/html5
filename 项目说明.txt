@@ -1,3 +1,0 @@
-//项目主要使用jquery.fullpage全屏滚动技术
-
-fullpage
